@@ -13,8 +13,6 @@ macだと`$ sudo npm install`
 
 `$ grunt`
 
-`$ gulp watch`
-
 で行けると思うんだけど、  
 必要であれば  
 gruntインストール  
