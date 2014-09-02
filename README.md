@@ -21,5 +21,5 @@ gruntインストール
 sassインストール  
 CoffeeScriptインストール
 
-こっちはeste-watch  
+こっちはeste-watch、livereload  
 いろいろあってよくわからん
