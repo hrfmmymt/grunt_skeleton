@@ -1,0 +1,6 @@
+bower_components/
+node_modules/
+.sass-cache/
+vendor/
+public/
+.DS_Store
